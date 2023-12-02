@@ -1,0 +1,3 @@
+makereceipt() {
+    python3 /home/inigo/.local/bin/overlay_pdf/overlay_pdf.py "$@"
+}
